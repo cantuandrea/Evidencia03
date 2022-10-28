@@ -1,3 +1,4 @@
+/* EJERCICIO DE PASTILLAS*/
 let hora = 5;
 let frecuencia = 6;
 let cantidad = Math.floor(24/frecuencia);
