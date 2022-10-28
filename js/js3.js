@@ -1,4 +1,4 @@
-/* EJERCICIO DE NUMEROS PERFECTOS*/
+/*Ejercicio de números perfectos*/
 let numeros = 4;
 let avance = 1
 let divisores = [];
