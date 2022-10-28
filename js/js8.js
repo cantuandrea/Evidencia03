@@ -1,4 +1,4 @@
-/* EJERCICIO DE TABLAS DE MULTIPLICAR*/
+/*Ejercicio de tablas de multiplicar*/
     function Tabla() {
     let numero = parseInt(document.getElementById("num").value);
     tablas_id.innerHTML = "";
