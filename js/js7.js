@@ -1,4 +1,4 @@
-/* EJERCICIO DE ELECCIÓN DE IMAGEN*/    
+/*Ejercicio de elección de imágen*/    
     function verImagen() {
     let num  = parseInt(document.getElementById("num").value);
     let imagen = document.getElementById('img');
