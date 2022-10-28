@@ -28,4 +28,4 @@ while (true) {
         avance++;
     }
 }
-console.log("La cantidad de perfectos es: ", numeros, "Los números perfectos son: ", perfectos);
+console.log("La cantidad de perfectos es: ", numeros, "Los números perfectos son los siguientes: ", perfectos);
