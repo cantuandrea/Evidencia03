@@ -1,4 +1,4 @@
-/* EJERCICIO DE FUNCIONES*/
+/*Ejercicio de funciones*/
 
 function divisores(numero) {
     let total=0;
