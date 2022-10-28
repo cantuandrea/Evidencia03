@@ -1,4 +1,5 @@
-function Tabla() {
+/* EJERCICIO DE TABLAS DE MULTIPLICAR*/
+    function Tabla() {
     let numero = parseInt(document.getElementById("num").value);
     tablas_id.innerHTML = "";
     for(let i=1; i<=10;i++){
